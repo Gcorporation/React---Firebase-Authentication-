@@ -22,4 +22,8 @@
 
 ## Adding and fetching token from local storage (Commit 10)
 
-1. adding and fetching token from local storage, using it in context and removing from local storage at time of logout
+1. adding and fetching token from local storage, using it in context and removing from local storage at time of logout.
+
+## Adding auto logout (Commit 11)
+
+1. adding auto logout using expiration time.
