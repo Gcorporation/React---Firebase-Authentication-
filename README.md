@@ -7,3 +7,11 @@
 ## Using The Token For Requests To Protected Resources (Commit 6)
 
 1. added logic to save token using Context and sending request to change user's password using token
+
+## Redirecting the user (Commit 7)
+
+1. redirecting the user after successful login and successful change password to home page using History. 
+
+## Adding Logout (Commit 8)
+
+1. added logout functionality on MainNavigation.js
