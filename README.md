@@ -15,3 +15,7 @@
 ## Adding Logout (Commit 8)
 
 1. added logout functionality on MainNavigation.js
+
+## Protecting Front-End pages (Commit 9)
+
+1. added logic to conditionally render pages based on auth state
