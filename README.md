@@ -19,3 +19,7 @@
 ## Protecting Front-End pages (Commit 9)
 
 1. added logic to conditionally render pages based on auth state
+
+## Adding and fetching token from local storage (Commit 10)
+
+1. adding and fetching token from local storage, using it in context and removing from local storage at time of logout
