@@ -27,3 +27,7 @@
 ## Adding auto logout (Commit 11)
 
 1. adding auto logout using expiration time.
+
+## Finishing steps (Commit 12)
+
+1. added logic to add and remove token, set and clear timeout for logout
